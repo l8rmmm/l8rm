@@ -1,0 +1,6 @@
+C:\Users\mychk\source\repos\gumkaWinForms\gumkaWinForms\x64\Release\gumkaWinForms.vcxproj.AssemblyReference.cache
+C:\Users\mychk\source\repos\gumkaWinForms\gumkaWinForms\x64\Release\gumkaWinForms.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\mychk\source\repos\gumkaWinForms\gumkaWinForms\x64\Release\gumkaWinForms.AuthForm.resources
+C:\Users\mychk\source\repos\gumkaWinForms\gumkaWinForms\x64\Release\gumkaWinForms.MyForm.resources
+C:\Users\mychk\source\repos\gumkaWinForms\gumkaWinForms\x64\Release\gumkaWinForms.vcxproj.GenerateResource.cache
+C:\Users\mychk\source\repos\gumkaWinForms\gumkaWinForms\x64\Release\gumkaWinForms.ToDoList.resources
